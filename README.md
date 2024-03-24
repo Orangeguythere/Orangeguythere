@@ -21,5 +21,5 @@ I am Maxime and I am interested in all things data and machine learning systems.
 
 Check out my Portfolio for all of my projects and Kaggle competitions.
 
-### GitHub Page 
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)]([https://github.com/Orangeguythere/Projets-Coding))
+[Portfolio]([https://github.com/Orangeguythere/Portfolio)https://github.com/Orangeguythere/Portfolio])
+
