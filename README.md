@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am Maxime and I am interested in all things data and machine learning systems. I am currently working as a Data Scientist and located in France. 
 
-Check out my Portfolio for all of my projects and Kaggle competitions.
+Check out my [Portfolio](https://github.com/Orangeguythere/Portfolio) for all of my projects and Kaggle competitions.
 
-[Portfolio]([https://github.com/Orangeguythere/Portfolio)https://github.com/Orangeguythere/Portfolio])
+
 
