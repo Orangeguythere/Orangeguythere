@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 
 
-I am Maxime and I am interested in all things data and machine learning systems. I am currently working as a Data Scientist and located in France. In my free time, I like to climb, play guitar and geek.
+I am Maxime and I am interested in all things data and machine learning systems. I am currently working as a Data Scientist and located in France. 
 
 Check out my Portfolio for all of my projects and Kaggle competitions.
+
+### GitHub Page 
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)]([https://github.com/Orangeguythere/Projets-Coding))
