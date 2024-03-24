@@ -22,4 +22,6 @@ I am Maxime and I am interested in all things data and machine learning systems.
 Check out my [Portfolio](https://github.com/Orangeguythere/Portfolio) for all of my projects and Kaggle competitions.
 
 
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orangeguythere&show_icons=true&theme=radical)
+
 
