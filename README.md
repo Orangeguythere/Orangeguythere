@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Welcome to my Github Profile! 👋
 
 <!--
 **Orangeguythere/Orangeguythere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+I am Maxime and I am interested in all things data and machine learning systems. I am currently working as a Data Scientist and located in France. In my free time, I like to climb, play guitar and geek.
+
+Check out my Portfolio for all of my projects and Kaggle competitions.
