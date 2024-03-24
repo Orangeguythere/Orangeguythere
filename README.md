@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-I am Maxime. I am currently working as a Data Scientist and located in France. 
+I am Maxime and currently working as Data Scientist in France. 
 
 Check out my [Portfolio](https://github.com/Orangeguythere/Portfolio) for all of my projects and Kaggle competitions.
 
