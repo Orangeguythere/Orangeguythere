@@ -22,7 +22,7 @@ I am Maxime and currently working as Data Scientist in France.
 Check out my [Portfolio](https://github.com/Orangeguythere/Portfolio) for all of my projects and Kaggle competitions.
 
 
-[![Orangeguythere's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Orangeguythere\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+
 
 
 
