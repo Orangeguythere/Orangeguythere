@@ -21,7 +21,5 @@ I am Maxime and currently working as Data Scientist in France.
 
 Check out my [Portfolio](https://github.com/Orangeguythere/Portfolio) for all of my projects and Kaggle competitions.
 
-![](https://komarev.com/ghpvc/?username=Orangeguythere&label=Month:&color=orange)
-
 
 
